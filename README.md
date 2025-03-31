@@ -1,10 +1,9 @@
 
-
 <h1 align="center">👋 Salut, je suis Jespersen Berdvin VIVI !</h1>
 
 <p align="center"><strong>Data Analyst</strong> passionné par l’analyse de données, la visualisation et le machine learning.</p>
 
-<p align="center">📍 Marseille, France | 📧 <a href="mailto:jessvivi11@gmail.com">jessvivi11@gmail.com</a></p>
+<p align="center">📍 Marseille, France</p>
 
 ---
 
