@@ -16,7 +16,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTki2Pd1tgavIzKIifRSRqD_5EMXnvPwL2Tdg&s" alt="Power BI" width="150">
   <img src="https://logo-marque.com/wp-content/uploads/2022/01/Excel-Embleme.jpg" alt="Excel" width="150">
   <img src="https://agence-communication.re/wp-content/uploads/2023/07/sql.jpg" alt="MySQL" width="150">
-  <img src="mongodb.png" alt="MongoDB" width="50">
+  <img src="https://blog.ippon.fr/content/images/2018/12/mongodb-logo-rgb.jpg" alt="MongoDB" width="150">
 </p>
 
 ---
