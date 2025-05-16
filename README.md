@@ -1,6 +1,7 @@
 
 <h1 align="center">👋 Salut, je suis Jespersen Berdvin VIVI !</h1>
 
+<p align="center"><strong>Data Analyst</strong> 🎓 **Master Student in Data Sciences for Societal Challenges**  .</p>
 <p align="center"><strong>Data Analyst</strong> passionné par l’analyse de données, la visualisation et le machine learning.</p>
 
 <p align="center">📍 Marseille, France</p>
