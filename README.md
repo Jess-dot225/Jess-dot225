@@ -1,11 +1,11 @@
 
 <h1 align="center">👋 Salut, je suis Jespersen Berdvin VIVI !</h1>
 
-<p align="center"><strong>Data Analyst</strong> 🎓 **Master Student in Data Sciences for Societal Challenges**  .</p>
-<p align="center"><strong>Data Analyst</strong> passionné par l’analyse de données, la visualisation et le machine learning.</p>
+<p align="center"><strong> 🎓 Master Student in Data Sciences for Societal Challenges.</strong></p>
+<p align="center">Passionné par l’analyse de données, la visualisation et le machine learning.</p>
 
-<p align="center">📍 Marseille, France</p>
-
+<p align="center">📍Université de Tours | Marseille, France</p>
+<p align="center">🔍 Looking for a 24-month **apprenticeship** as a <strong> Data Analyst</strong> or <strong> Data Scientist </strong>  </p>
 ---
 
 ## 🚀 Compétences
