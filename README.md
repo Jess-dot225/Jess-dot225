@@ -5,7 +5,7 @@
 <p align="center">Passionné par l’analyse de données, la visualisation et le machine learning.</p>
 
 <p align="center">📍Université de Tours | Marseille, France</p>
-<p align="center">🔍 Looking for a 24-month **apprenticeship** as a <strong> Data Analyst</strong> or <strong> Data Scientist </strong>  </p>
+<p align="center">🔍 Looking for a 24-month <strong> alternated trainin</strong>g as a <strong> Data Analyst</strong> or <strong> Data Scientist </strong>  </p>
 ---
 
 ## 🚀 Compétences
